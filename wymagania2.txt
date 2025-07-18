@@ -1,2 +1,2 @@
-klient 102
-Klient101 not exist
+102
+
