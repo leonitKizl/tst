@@ -1,2 +1,0 @@
-enter loginm
-enter password
